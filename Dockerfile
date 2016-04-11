@@ -1,4 +1,4 @@
-FROM clubcedille/docker-apache
+FROM clubcedille/apache
 MAINTAINER Michael Faille <michael@faille.io>
 
 RUN apt-get update && \
